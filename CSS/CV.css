@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: blanchedalmond;
+}
+.container{
+    width: 1000px;
+    background-color: rgb(209, 207, 211);
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+.profile{
+    width: 100px;
+    height: 120px;
+    border: 3px solid black;
+    border-radius: 50%;
+    float: left;
+}
+header{
+
+}
+.bio{
+    float: left;
+    padding: 30px;
+}
+h1,h2,h3,h4,h5{
+    color: #11999e;
+}
+.contact{
+    float: right;
+    padding: 30px;
+}
+.contact a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+.contact a:hover{
+    background-color: tomato;
+    border-radius: 5px;
+}
+.divclear{
+    clear: both;
+}
+hr{
+    border: solid black 3px;
+    margin: 20px auto;
+    border-bottom: none;
+}
+#personal{
+
+}
+.content{
+    /* margin-bottom: 30px; */
+}
+.left{
+    width: 30%;
+    float: left;
+}
+.right{
+    width: 70%;
+    float: left;
+}
+.chr{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+    /* padding: 10px; */
+}
+#work{
+
+}
+.eduleft{
+    width: 45%;
+    float: left;
+}
+.eduright{
+    width: 45%;
+    float: right;
+}
+.skillleft{
+    width: 45%;
+    float: left;
+}
+.skillright{
+    width: 45%;
+    float: right;
+}
+.eduleft a:hover{
+    background-color: tomato;
+    border-radius: 5px;
+}
+.eduright a:hover{
+    background-color: tomato;
+    border-radius: 5px;
+}
+.eduleft a{
+    text-decoration: none;
+}
+.eduright a{
+    text-decoration: none;
+}
+.footright{
+}
+
+.foot{
+    background-color: #11999e;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+}
+.foot a{
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 20px;
+}
+.foot a:hover{
+    background-color: tomato;
+    border-radius: 5px;
+}
